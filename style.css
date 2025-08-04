@@ -1,0 +1,214 @@
+
+body{
+    background-color: white;
+ }
+ .container{
+     text-align: center;
+     display:flex;
+     gap: 20px;
+     justify-content: center;
+    
+ }
+ .text{
+     
+ }
+ h1 {
+   font-family: serif;
+   font-size: 76px;
+   color: #000000;
+   height: 95px;
+   width: 846px;
+   position: absolute;
+   left: 56px;
+   top: 160px;
+ }
+ 
+ 
+     img{
+        
+         position:absolute;
+         left: 1px;
+           }
+           .button{
+             
+             background-color: black;
+             color: #faebd7;
+             font-size: 30px;
+             font-family: fangsong;
+             position: absolute;
+             width: 230px;
+             height: 75px;
+             border-radius: 45px;
+             top: 335px;
+     left: 814px;
+           }
+           .box{
+     
+     height: 3769px;
+     width: 2006px;
+     justify-items: center;
+     position: absolute;
+     left: 298px;
+           }
+           .shyam{
+             background-color: white;
+             height: 2139px;
+             width: 1916px;
+             justify-items: center;
+             position: absolute;
+             top: 698px;
+             left: 60px;
+ 
+           }
+           .Abhi
+           {
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 146px;
+             left:104px;
+ 
+           }
+           .shiva{
+             color:black;
+             height: 500px;
+             width:928px;
+             justify-items: center;
+             position: absolute;
+             top: 146px;
+             left:915px;
+             font-family: serif;
+             font-size: 50px;
+ 
+ 
+           }
+           .naman{
+             color: black;
+     height: 500px;
+     width: 1000px;
+     justify-items: center;
+     position: absolute;
+     top: 800px;
+     left: 1158px;
+     font-family: serif;
+     font-size: 50px;
+           }
+           .anurag{
+             font-size: 42px;
+             height: 500px;
+             width: 928px;
+             justify-items: center;
+             position: absolute;
+             top: 800px;
+             left:104px;
+ 
+             
+ 
+           }
+           .atul{
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1264px;
+             left:104px;
+           }
+           .anand{
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1304px;
+             left: 808px;
+             
+           }
+           .singhma{
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1294px;
+             left:1446px;
+           }
+           .ram{
+             font-size: 29px;
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1724px;
+             left:104px;
+ 
+           }
+           .singh{
+             font-size: 29px;
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1724px;
+             left: 808px;
+ 
+           }
+           .kumar{
+             font-size: 29px;
+             height: 500px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 1724px;
+             left:1404px;
+ 
+           }
+           .txt{
+             color:rgb(8, 12, 12);
+             font-size: 39px;
+             height: 200px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 2044px;
+             left:808px;
+ 
+           }
+           a{
+             color:white;
+           }
+           .picture{
+             
+               border: 3px solid black;
+               background-color: white;
+               height: 924px;
+               width: 2002px;
+               justify-items: center;
+               position: relative;
+               display: block;
+               top: 2853px;
+               left: -1px;
+ }
+     H3{
+       position: absolute;
+     color: #f1ebebe6;
+     z-index: 2;
+     font-size: 50px;
+     top: 2996px;
+     }
+ .tst{
+ 
+   color:black;
+             font-size: 29px;
+             height: 200px;
+             width: 510px;
+             justify-items: center;
+             position: absolute;
+             top: 3298px;
+             left:808px;
+         
+     
+ }
+           .box{
+             box-shadow: -44px 11px 85px black;
+           }
+ 
+                                        
